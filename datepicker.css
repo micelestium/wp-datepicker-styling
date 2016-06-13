@@ -121,6 +121,11 @@
     width: 33%;
 }
 
+.ui-datepicker-header a.ui-state-disabled
+{
+    display:none;
+}
+
 .ui-datepicker thead {
     color: #fff;
     font-weight: 600;
